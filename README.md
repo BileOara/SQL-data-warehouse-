@@ -28,7 +28,7 @@ Data Modeling: Developing fact and dimension tables optimized for analytical que
 
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-# Skills applied :
+### Skills applied :
 
 SQL Development
 
