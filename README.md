@@ -74,5 +74,6 @@ Documentation: Provide clear documentation of the data model to support both bus
 3.Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+CHECK IT OUT IN MY ANALYTICS REPO https://github.com/BileOara/SQL-ADVANCED-DATA-ANALYTICS
 
 
